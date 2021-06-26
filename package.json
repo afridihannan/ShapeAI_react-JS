@@ -1,0 +1,15 @@
+{
+  "name": "calculaor",
+  "version": "1.0.0",
+  "description": "my first node and express server calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hannan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
